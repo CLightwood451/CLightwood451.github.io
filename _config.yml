@@ -1,7 +1,7 @@
 # Basic site settings (edit these first)
-title: "Student Portfolio" # Site title shown in the browser and header
+title: "Christopher Lightwood" # Site title shown in the browser and header
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "Games Design and Development Student"# site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Christopher Lightwood"
 url: "https://clightwood451.github.io" # Your GitHub Pages domain
@@ -20,7 +20,7 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Christopher Lightwood" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Add short bio here" # Bio of the student
   location: "Add location here" # Location of the student
