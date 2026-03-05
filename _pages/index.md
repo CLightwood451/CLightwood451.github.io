@@ -14,7 +14,7 @@ header:
 
 excerpt: "You can add text here."
 intro: 
-  - excerpt: 'Gallery'
+  - title: 'My Projects'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
