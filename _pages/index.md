@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Home"
 layout: splash
 permalink: /
 header:
@@ -14,7 +14,7 @@ header:
 
 excerpt: "You can add text here."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Gallery'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
