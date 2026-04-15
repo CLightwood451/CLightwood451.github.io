@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Christopher Lightwood"
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Games Design and Development Student"
 intro: 
   - title: 'My Projects'
 feature_row:
