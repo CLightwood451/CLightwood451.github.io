@@ -16,7 +16,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Programming"
     excerpt: ""
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Map design.png
     alt: "placeholder image 2"
     title: "Map Design And Tileset Creation"
     excerpt: ""
