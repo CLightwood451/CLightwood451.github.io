@@ -14,15 +14,15 @@ intro:
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
-    title: "Project 1"
+    title: "Programming"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
-    title: "Project 2"
+    title: "Map Designer And Tileset Creation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
-    title: "Project 3"
+    title: "Non-Digital Games Creation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
