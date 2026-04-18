@@ -12,15 +12,15 @@ excerpt: "Games Design and Development Student"
 intro: 
   - title: 'My Work'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Programming.png
     alt: "placeholder image 1"
     title: "Programming"
     excerpt: ""
-  - image_path: /assets/images/Map design.png
+  - image_path: /assets/images/Map-Design.png
     alt: "placeholder image 2"
     title: "Map Design And Tileset Creation"
     excerpt: ""
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Games-Creation.png
     alt: "placeholder image 4"
     title: "Non-Digital Games Creation"
     excerpt: ""
