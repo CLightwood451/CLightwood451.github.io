@@ -1,6 +1,6 @@
 ---
 title: "The Fog"
-layout: single
+layout: splash
 permalink: /projects/3dgame/
 header:
   overlay_color: "#000"
