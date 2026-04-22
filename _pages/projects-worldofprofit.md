@@ -1,6 +1,6 @@
 ---
 title: "World of Profit"
-layout: single
+layout: splash
 permalink: /projects/worldofprofit/
 header:
   overlay_color: "#000"
