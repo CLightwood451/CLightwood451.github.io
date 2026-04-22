@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 layout: single
-permalink: /pages/my-projects/
+permalink: /my-projects/
 sidebar:
   title: "Page Templates"
   nav:
