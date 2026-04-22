@@ -3,9 +3,9 @@ title: "My Projects"
 layout: single
 permalink: /my-projects/
 sidebar:
-  title: "Page Templates"
+  title: "Projects"
   nav:
-    - pages
+    - projects
 ---
 
 This page uses the `single` layout. It adds a page title, meta area, and supports a sidebar.
