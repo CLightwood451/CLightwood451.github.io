@@ -6,6 +6,13 @@ main:
     url: /about-me/
   - title: "Projects"
     url: /my-projects/
+    children:
+      - title: "World of Profit"
+        url: /projects/worldofprofit/
+      - title: "Dark Depths"
+        url: /projects/2dgame/
+      - title: "The Fog"
+        url: /projects/3dgame/
   - title: "Contact Me"
     url: /contact-me/
  
