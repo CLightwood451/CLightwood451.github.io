@@ -16,7 +16,13 @@ projects:
     url: /projects/game-jam/
   - title: "Capstone"
     url: /projects/capstone/
-
+  - title: "World of Profit"
+    url: /projects/worldofprofit/
+  - title: "Dark Depths"
+    url: /projects/2dgame/
+  - title: "The Fog"
+    url: /projects/3dgame/
+    
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"
