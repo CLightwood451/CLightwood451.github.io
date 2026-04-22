@@ -1,7 +1,7 @@
 ---
 title: "Single Layout"
 layout: single
-permalink: /pages/contact-me/
+permalink: contact-me/
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
