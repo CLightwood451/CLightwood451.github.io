@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 layout: single
-permalink: /pages/single/
+permalink: /pages/my-projects/
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
