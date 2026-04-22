@@ -8,6 +8,5 @@ sidebar:
     - projects
 ---
 
-This page uses the `single` layout. It adds a page title, meta area, and supports a sidebar.
-Good for standard content pages like About or Project detail pages.
-
+I have made several digital and non-digital games throughout my game development studies. 
+You can see each game I made in more detail by clicking on the respective link in the side bar to the left.
