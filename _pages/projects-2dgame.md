@@ -1,6 +1,6 @@
 ---
 title: "Dark Depths"
-layout: single
+layout: splash
 permalink: /projects/2dgame/
 header:
   overlay_color: "#000"
