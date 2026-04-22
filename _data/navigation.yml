@@ -6,8 +6,8 @@ main:
     url: /about-me/
   - title: "Projects"
     url: /my-projects/
-  - title: "Components"
-    url: /components/
+  - title: "Contact Me"
+    url: /contact-me/
  
 
 # Sidebar menu for the Projects page
