@@ -2,22 +2,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /about-me/
   - title: "Projects"
-    url: /projects/
-    children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
+    url: /my-projects/
   - title: "Components"
     url: /components/
  
