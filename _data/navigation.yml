@@ -13,6 +13,8 @@ main:
         url: /projects/2dgame/
       - title: "The Fog"
         url: /projects/3dgame/
+      - title: "Neurosis"
+        url: /projects/neurosis/    
   - title: "Contact Me"
     url: /contact-me/
  
@@ -25,7 +27,9 @@ projects:
     url: /projects/2dgame/
   - title: "The Fog"
     url: /projects/3dgame/
-    
+  - title: "Neurosis"
+    url: /projects/neurosis/    
+
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"
