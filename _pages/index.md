@@ -15,15 +15,15 @@ feature_row:
   - image_path: /assets/images/Programming.png
     alt: "placeholder image 1"
     title: "Programming"
-    excerpt: ""
+    excerpt: "Experience with C# programming and implementation in the Unity engine"
   - image_path: /assets/images/Map-Design.png
     alt: "placeholder image 2"
     title: "Map Design And Tileset Creation"
-    excerpt: ""
+    excerpt: "Experience with tilemaps and greyboxing"
   - image_path: /assets/images/Games-Creation.png
     alt: "placeholder image 4"
     title: "Non-Digital Games Creation"
-    excerpt: ""
+    excerpt: "Experienced in the creation of board games"
 ---
 
 {% include feature_row id="intro" type="center" %}
