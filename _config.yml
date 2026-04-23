@@ -23,7 +23,7 @@ author:
   name: "Christopher Lightwood" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Add short bio here" # Bio of the student
-  location: "Add location here" # Location of the student
+  location: "Derry Londonderry, County Derry, Northern Ireland" # Location of the student
   email: # Email of the student
 
   # Author links
