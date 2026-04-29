@@ -67,7 +67,7 @@ I am Christopher Lightwood, a first year Games Design and Development student at
 
 {% include download
   title="Download CV"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
+  url="/assets/downloads/CLightwood-CV.pdf"
+  button_label="Download"
+  download="CLightwood-CV.pdf"
 %}
