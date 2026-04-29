@@ -9,3 +9,5 @@ header:
 excerpt: "A lone soldier fights his way through an ancient city..."
 
 ---
+
+Dark Depths is an advanture game set in a dark, ancient city. You are a lone soldier, lost from his squad, forced to fight against the forces occupying this place. With your sword in hand, you must explore this place, find the exit... and survive the well emplaced armies of an opposing empire.
