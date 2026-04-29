@@ -10,22 +10,22 @@ excerpt: "A ghost must sneak her way through an abandoned asylum..."
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery1.png
     alt: "Gameplay 1"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery2.png
     alt: "Gameplay 2"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery3.png
     alt: "Gameplay 3"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery4.png
     alt: "Gameplay 4"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery5.png
     alt: "Gameplay 5"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/NUGallery6.png
     alt: "Gameplay 6"
 
 
