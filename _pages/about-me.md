@@ -7,13 +7,13 @@ gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+    title: "Tilemaps"
+    caption: "Tilemaps"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
+    title: "Player Sprites"
+    caption: "Player Sprites"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 3"
@@ -22,18 +22,18 @@ gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
+    title: "Enemy Design"
+    caption: "Enemy Design"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
+    title: "Map Design"
+    caption: "Map Design"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
+    title: "Programming"
+    caption: "Programming"
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
