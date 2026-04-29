@@ -5,12 +5,12 @@ permalink: /about-me/
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/AMGallery5.png
     alt: "Gameplay 1"
     title: "Tilemaps"
     caption: "Tilemaps"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/AMGallery1.png
     alt: "Gameplay 2"
     title: "Player Sprites"
     caption: "Player Sprites"
