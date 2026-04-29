@@ -9,8 +9,8 @@ header:
 excerpt: "A short game about a mysterious, foggy coast."
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/The-Fog.png
+    image_path: /assets/images/The-Fog.png
     alt: "Gameplay 1"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
