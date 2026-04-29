@@ -17,8 +17,8 @@ gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+    title: "Board Games"
+    caption: "Board Games"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 4"
