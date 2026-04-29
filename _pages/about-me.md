@@ -39,22 +39,22 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["Game Dev"]
     text: "Developed several 2D and 3D games in the Unity Engine"
-    years: 1
+    year: 1
   - name: "Level Design"
     icon: "fa-solid fa-map"
     badges: ["Levels"]
     text: "Proficient in the creation of game levels and maps"
-    level_label: "Beginner"
+    year: 1
   - name: "Coding"
     icon: "fas fa-fw fa-gamepad"
     badges: ["C#"]
     text: "Proficient in the use and integration of C# for game development"
-    years: 1
+    year: 1
   - name: "Game Art"
-    icon: "fab fa-fw fa-unity"
+    icon: "fa-solid fa-paint-roller"
     badges: ["Libresprite"]
     text: "An understanding of the tools needed to create game art, mainly pixel art"
-    years: 1
+    year: 1
 ---
 
 I am Christopher Lightwood, a first year Games Design and Development student at Ulster University.
