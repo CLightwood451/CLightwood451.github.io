@@ -41,7 +41,7 @@ skills:
     text: "Developed several 2D and 3D games in the Unity Engine"
     years: 1
   - name: "Level Design"
-    icon: "fas fa-fw fa-gamepad"
+    icon: "fa-solid fa-map"
     badges: ["Levels"]
     text: "Proficient in the creation of game levels and maps"
     level_label: "Beginner"
