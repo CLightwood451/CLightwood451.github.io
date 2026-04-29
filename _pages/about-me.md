@@ -4,32 +4,32 @@ layout: single
 permalink: /about-me/
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/AMGallery5.png
     image_path: /assets/images/AMGallery5.png
     alt: "Gameplay 1"
     title: "Tilemaps"
     caption: "Tilemaps"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/AMGallery1.png
     image_path: /assets/images/AMGallery1.png
     alt: "Gameplay 2"
     title: "Player Sprites"
     caption: "Player Sprites"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/Games-Creation.png
     image_path: /assets/images/Games-Creation.png
     alt: "Gameplay 3"
     title: "Board Games"
     caption: "Board Games"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/AMGallery2.png
     image_path: /assets/images/AMGallery2.png
     alt: "Gameplay 4"
     title: "Enemy Design"
     caption: "Enemy Design"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/AMGallery4.png
     image_path: /assets/images/AMGallery4.png
     alt: "Gameplay 5"
     title: "Map Design"
     caption: "Map Design"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/AMGallery3.png
     image_path: /assets/images/AMGallery3.png
     alt: "Gameplay 6"
     title: "Programming"
