@@ -9,23 +9,23 @@ header:
 excerpt: "A lone soldier fights his way through an ancient city..."
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery1.png
+    image_path: /assets/images/DDGallery1.png
     alt: "Gameplay 1"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery2.png
+    image_path: /assets/images/DDGallery2.png
     alt: "Gameplay 2"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery3.png
+    image_path: /assets/images/DDGallery3.png
     alt: "Gameplay 3"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery4.png
+    image_path: /assets/images/DDGallery4.png
     alt: "Gameplay 4"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery5.png
+    image_path: /assets/images/DDGallery5.png
     alt: "Gameplay 5"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/DDGallery6.png
+    image_path: /assets/images/DDGallery6.png
     alt: "Gameplay 6"
 
 ---
