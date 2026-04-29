@@ -15,22 +15,22 @@ gallery_gameplay:
     title: "Player Sprites"
     caption: "Player Sprites"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/Games-Creation.png
     alt: "Gameplay 3"
     title: "Board Games"
     caption: "Board Games"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/AMGallery2.png
     alt: "Gameplay 4"
     title: "Enemy Design"
     caption: "Enemy Design"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/AMGallery4.png
     alt: "Gameplay 5"
     title: "Map Design"
     caption: "Map Design"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+    image_path: /assets/images/AMGallery3.png
     alt: "Gameplay 6"
     title: "Programming"
     caption: "Programming"
