@@ -64,3 +64,10 @@ I am Christopher Lightwood, a first year Games Design and Development student at
 
 ## Some of my key skills
 {% include skills skills=page.skills %}
+
+{% include download
+  title="Download CV"
+  url="/assets/downloads/Project-proposal.pdf"
+  button_label="Download Project Proposal"
+  download="Project-proposal.pdf"
+%}
