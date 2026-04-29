@@ -12,20 +12,20 @@ gallery_gameplay:
   - url: /assets/images/The-Fog.png
     image_path: /assets/images/The-Fog.png
     alt: "Gameplay 1"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/TFGallery1.png
+    image_path: /assets/images/TFGallery1.png
     alt: "Gameplay 2"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/TFGallery2.png
+    image_path: /assets/images/TFGallery2.png
     alt: "Gameplay 3"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/TFGallery3.png
+    image_path: /assets/images/TFGallery3.png
     alt: "Gameplay 4"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/TFGallery4.png
+    image_path: /assets/images/TFGallery4.png
     alt: "Gameplay 5"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/TFGallery5.png
+    image_path: /assets/images/TFGallery5.png
     alt: "Gameplay 6"
 
 ---
