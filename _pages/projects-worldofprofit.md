@@ -5,7 +5,7 @@ permalink: /projects/worldofprofit/
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-  overlay_image: /assets/images/Games-Creation.png
+  overlay_image: /assets/images/placeholder-2.png
 excerpt: "A game of industry."
 
 ---
