@@ -46,7 +46,7 @@ skills:
     text: "Proficient in the creation of game levels and maps"
     level_label: "Beginner"
   - name: "Coding"
-    icon: "fab fa-fw fa-unity"
+    icon: "fas fa-fw fa-gamepad"
     badges: ["C#"]
     text: "Proficient in the use and integration of C# for game development"
     years: 1
